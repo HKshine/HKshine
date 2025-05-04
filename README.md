@@ -1,7 +1,7 @@
 
-# Olá, eu sou o HKshine
+# Olá, eu sou o Nerú Shine 👋
 
-Desenvolvedor apaixonado por segurança cibernética, programação e tecnologias modernas.
+Desenvolvedor apaixonado por segurança cibernética, programação e tecnologias modernas. Sou o criador da primeira IA Angolana! 
 
 ---
 
