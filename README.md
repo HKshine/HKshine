@@ -30,9 +30,9 @@ Desenvolvedor apaixonado por segurança cibernética, programação e tecnologia
 
 ## 📬 Contato
 
-- **Email:** [nerushine3@gmail.com](mailto:nerushine3@gmail.com)  
-- **YouTube:** [Treinamento Hacker](https://www.youtube.com/@Treinamento-hacker)
-
+[![Email](https://img.shields.io/badge/Gmail-nerushine3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerushine3@gmail.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999999999) 
 ---
 
 ## ✍️ Blog
