@@ -39,5 +39,7 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://shellgren.blogspot.com)
 
+
+
 ## Citação 
 🌍 Tecnologia não é só código — é minha forma de entender e transformar o mundo! 
