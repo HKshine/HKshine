@@ -32,7 +32,8 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 
 [![Email](https://img.shields.io/badge/Gmail-nerushine3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerushine3@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/948317617) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/948317617)
+[![GitHub](https://img.shields.io/badge/GitHub-HKshine-181717?style=for-the-badge&logo=github)](https://github.com/HKshine)  
 ---
 
 ## ✍️ Blog
