@@ -15,6 +15,7 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -33,7 +34,12 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 [![Email](https://img.shields.io/badge/Gmail-nerushine3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerushine3@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/948317617)
-[![GitHub](https://img.shields.io/badge/GitHub-HKshine-181717?style=for-the-badge&logo=github)](https://github.com/HKshine)  
+
+## Perfil
+
+[![GitHub](https://img.shields.io/badge/GitHub-HKshine-181717?style=for-the-badge&logo=github)](https://github.com/HKshine) 
+[![Offensive Security](https://img.shields.io/badge/Curso-Offensive_Security-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.offensive-security.com) 
+
 ---
 
 ## ✍️ Blog
