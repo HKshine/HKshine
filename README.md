@@ -1,9 +1,16 @@
 
 # Olá, eu sou o Nerú Shine 👋
+---
+### Sobre mim! 
 
-Desenvolvedor apaixonado por segurança cibernética, programação, automação e tecnologias modernas. Sou o criador da primeira IA Angolana (SHELLGREN), tenho 5 anos de trabalho como programador/pentest, já participei em CTFS. 
+Desenvolvedor apaixonado por segurança cibernética, programação, automação e tecnologias modernas. Sou o criador da primeira IA Angolana (SHELLGREN), tenho 5 anos de trabalho como programador/pintestr, já Participo em CTFS. 
 ---
 
+### A criação da primeira IA ANGOLANA ( ShellGren IA), foi um grande avanço para mim, {Posso criar qualquer tipo de ferramenta a tua escolha, basta entrar em contacto com meu whatsapp abaixo 👇}...
+---
+
+Sou especialista em shell Script! 
+---
 
 ## 🛠️ Tecnologias
 
