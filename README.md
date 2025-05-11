@@ -32,13 +32,13 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/Gmail-nerushine3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerushine3@gmail.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/948317617)
 
 ## Perfil
 
 [![GitHub](https://img.shields.io/badge/GitHub-HKshine-181717?style=for-the-badge&logo=github)](https://github.com/HKshine) 
-[![Offensive Security](https://img.shields.io/badge/Curso-Offensive_Security-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.offensive-security.com) 
+[![Offensive Security](https://img.shields.io/badge/Curso-Offensive_Security-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.offensive-security.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)  
 
 ---
 
@@ -47,6 +47,7 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://shellgren.blogspot.com)
 
 
+---
 
 ## Citação 
 🌍 Tecnologia não é só código — é minha forma de entender e transformar o mundo! 
