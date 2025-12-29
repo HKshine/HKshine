@@ -28,11 +28,10 @@ Sou especialista em shell Script!
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HKshine&show_icons=true&theme=github_dark" alt="Estatísticas HKshine"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKshine&layout=compact&theme=github_dark" alt="Linguagens mais usadas"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HKshine&show_icons=true&theme=github_dark" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HKshine&layout=compact&theme=github_dark" />
+
 
 ---
 
