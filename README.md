@@ -9,7 +9,7 @@ Desenvolvedor apaixonado por segurança cibernética, programação, automação
 ### A criação da primeira IA ANGOLANA ( ShellGren IA), foi um grande avanço para mim, {Posso criar qualquer tipo de ferramenta a tua escolha, basta entrar em contacto com meu whatsapp abaixo 👇}...
 ---
 
-Sou especialista em shell Script! 
+Sou especialista em Front-End & Back-End! 
 ---
 
 ## 🛠️ Tecnologias
