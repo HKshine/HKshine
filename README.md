@@ -3,7 +3,7 @@
 ---
 ### Sobre mim! 
 
-Desenvolvedor apaixonado por segurança cibernética, programação, automação e tecnologias modernas. Sou o criador da primeira IA Angolana (SHELLGREN), tenho 5 anos de trabalho como programador/pintestr, Participo em CTFS. 
+Desenvolvedor e Professor de Informática e Programação web no (Centro de Inovação Profissional-Benévia) apaixonado por segurança cibernética, programação, automação e tecnologias modernas. Sou o criador da primeira IA Angolana (SHELLGREN), tenho 5 anos de experencia como programador/pintestr e Participo em CTFS. 
 ---
 
 ### A criação da primeira IA ANGOLANA ( ShellGren IA), foi um grande avanço para mim, {Posso criar qualquer tipo de Site ou Sistema de gestão a tua escolha, basta entrar em contacto com meu whatsapp abaixo 👇}...
