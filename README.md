@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Nerú Shine 👋
+# Olá, eu sou  Nerú Shine 👋
 ---
 ### Sobre mim! 
 
