@@ -26,7 +26,7 @@ Sou especialista em Front-End & Back-End!
 
 ---
 
-## 🗄️ Bancos de Dados
+## 🗄️ Databeses
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
@@ -37,7 +37,7 @@ Sou especialista em Front-End & Back-End!
 
 ---
 
-## ⚙️ Ferramentas
+## ⚙️ Widgets
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
