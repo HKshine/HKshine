@@ -72,7 +72,7 @@ Sou especialista em Front-End & Back-End!
 
 [![Blogger](https://img.shields.io/badge/Blog-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://shellgren.blogspot.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portf-lio-nerushine.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-shine.wuaze.com/index.php)
 
 
 ---
