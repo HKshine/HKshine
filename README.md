@@ -62,9 +62,10 @@ Sou especialista em Front-End & Back-End!
 
 ## Perfil
 
-[![GitHub](https://img.shields.io/badge/GitHub-HKshine-181717?style=for-the-badge&logo=github)](https://github.com/HKshine) 
-[![Offensive Security](https://img.shields.io/badge/Curso-Offensive_Security-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.offensive-security.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)  
+[![GitHub](https://img.shields.io/badge/GitHub-HKshine-181717?style=for-the-badge\&logo=github)](https://github.com/HKshine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nerú_Shine-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neru-shine)
+[![Offensive Security](https://img.shields.io/badge/Curso-Offensive_Security-red?style=for-the-badge\&logo=hackthebox\&logoColor=white)](https://www.offensive-security.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Treinamento_Hacker-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@Treinamento-hacker)
 
 ---
 
